@@ -19,3 +19,7 @@ LinkedP2PChat.py
 ChatTCPServer.py, ChatTCPClient.py
 
   These code files are run to creat chat environment about TCP.
+  
+  Server provide client to reliable connection and functions.
+  
+  This application is using Thread.
